@@ -1,0 +1,19 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "Doing cool things",
+  "main": "example_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon example_node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kuwarrdua/AdvJSApp.git)"
+  },
+  "author": "Kuwar Dua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
